@@ -7,7 +7,7 @@ Only the latest release on the `main` branch receives fixes.
 ## Reporting a vulnerability
 
 Please report security issues privately through
-[GitHub's private vulnerability reporting](https://github.com/Cyvid7-Darus10/docfriction/security/advisories/new)
+[GitHub's private vulnerability reporting](https://github.com/cyruspastelero/docfriction/security/advisories/new)
 or by email to cyrus@pastelero.ph. Do not open a public issue.
 
 You can expect an acknowledgement within a few days and a fix or a public

@@ -32,9 +32,9 @@ classifiers = [
 docfriction = "docfriction.cli:main"
 
 [project.urls]
-Homepage = "https://github.com/Cyvid7-Darus10/docfriction"
-Repository = "https://github.com/Cyvid7-Darus10/docfriction"
-Issues = "https://github.com/Cyvid7-Darus10/docfriction/issues"
+Homepage = "https://github.com/cyruspastelero/docfriction"
+Repository = "https://github.com/cyruspastelero/docfriction"
+Issues = "https://github.com/cyruspastelero/docfriction/issues"
 
 [dependency-groups]
 dev = [

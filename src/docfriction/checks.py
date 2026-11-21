@@ -27,7 +27,7 @@ MIN_PROSE_CHARS = 40
 DEAD_LINK_RETRY_STATUSES = frozenset({400, 403, 405})
 DEFAULT_LINK_TIMEOUT_SECONDS = 10.0
 ALLOWED_LINK_SCHEMES = frozenset({"http", "https"})
-USER_AGENT = f"docfriction/{__version__} (+https://github.com/Cyvid7-Darus10/docfriction)"
+USER_AGENT = f"docfriction/{__version__} (+https://github.com/cyruspastelero/docfriction)"
 
 Resolver = Callable[[str], tuple[str, ...]]
 

@@ -48,5 +48,5 @@ All notable changes to this project are documented here. The format follows
   links and escapes from headings.
 - Example GitHub Actions workflow and research notes on Jev.
 
-[Unreleased]: https://github.com/Cyvid7-Darus10/docfriction/compare/v0.1.0...HEAD
-[0.1.0]: https://github.com/Cyvid7-Darus10/docfriction/releases/tag/v0.1.0
+[Unreleased]: https://github.com/cyruspastelero/docfriction/compare/v0.1.0...HEAD
+[0.1.0]: https://github.com/cyruspastelero/docfriction/releases/tag/v0.1.0

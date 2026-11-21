@@ -7,7 +7,7 @@ rubric wording are the most useful contributions.
 ## Set up
 
 ```bash
-git clone https://github.com/Cyvid7-Darus10/docfriction
+git clone https://github.com/cyruspastelero/docfriction
 cd docfriction
 uv sync --all-groups
 uv run pre-commit install   # optional but recommended

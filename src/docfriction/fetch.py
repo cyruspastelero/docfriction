@@ -18,7 +18,7 @@ CONTENT_SELECTORS = ("article", ".markdown-body", "[role=main]", "main", "#conte
 STRIP_TAGS = ("script", "style", "nav", "header", "footer", "aside", "noscript", "svg", "form")
 HTML_SUFFIXES = frozenset({".html", ".htm"})
 LANGUAGE_CLASS_PREFIXES = ("language-", "lang-")
-USER_AGENT = f"docfriction/{__version__} (+https://github.com/Cyvid7-Darus10/docfriction)"
+USER_AGENT = f"docfriction/{__version__} (+https://github.com/cyruspastelero/docfriction)"
 ACCEPT = "text/markdown, text/html;q=0.9, text/plain;q=0.8, */*;q=0.1"
 DEFAULT_TIMEOUT_SECONDS = 20.0
 MAX_PAGE_BYTES = 5 * 1024 * 1024

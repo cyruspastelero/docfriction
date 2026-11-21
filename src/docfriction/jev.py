@@ -28,7 +28,7 @@ RETRYABLE_STATUSES = frozenset({429, 529})
 DEFAULT_TIMEOUT_SECONDS = 30.0
 DEFAULT_MAX_RETRIES = 3
 BACKOFF_BASE_SECONDS = 0.5
-USER_AGENT = f"docfriction/{__version__} (+https://github.com/Cyvid7-Darus10/docfriction)"
+USER_AGENT = f"docfriction/{__version__} (+https://github.com/cyruspastelero/docfriction)"
 
 JsonState = str | Mapping[str, Any] | Sequence[Any]
 Instructions = str | Mapping[str, Any] | Sequence[Any]
